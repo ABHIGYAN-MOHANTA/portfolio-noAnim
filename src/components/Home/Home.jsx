@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import Timeline from "./Timeline";
-import {Slide} from "react-awesome-reveal";
+
 
 function Home() {
   return (
@@ -13,7 +13,7 @@ function Home() {
           I just finished up with my High School! Will be joining University
           soon. I am very passionate about Computer Science. Happy Coding!
         </p>
-        <Slide>
+       
         <img
           className="profile-pic"
           src="https://pbs.twimg.com/profile_images/1557323145823916032/9GDalOPv_400x400.jpg"
@@ -21,7 +21,7 @@ function Home() {
           width="600"
           height="600"
         ></img>
-        </Slide>
+       
         <div class="intro-icons">
           <h4>Socials:</h4>
           <a href="https://twitter.com/MohantaAbhigyan" class="fa fa-twitter"> </a>
@@ -36,9 +36,9 @@ function Home() {
         <div className="timeline-in container">
           <h1 className="timeline-heading">Experience Timeline</h1>
           <div className="timeline-inn container">
-          <Slide direction="right">
+         
             <Timeline />
-          </Slide>
+          
           </div>
         </div>
       </div>
