@@ -1,0 +1,24 @@
+.skills-heading{
+    color: beige;
+}
+.Skills{
+    border-style: double none;
+    border-width: thick;
+    border-color: beige;
+    background-color: #593d79;
+    margin-top: 50px;
+    background-image: url("http://1.bp.blogspot.com/-K4Lwzyoeo-Q/ViH--oxVfsI/AAAAAAAACh0/Hp673VzUuZ4/s1600/tut-animebg.jpg");
+    background-size: cover;
+}
+.Skills-in{
+    padding-top: 20px;
+    
+    padding-bottom: 30px;
+}
+.skill-icon{
+    height: 100px;
+    width: 100px;
+    background-color: burlywood;
+    margin-left: 20px;
+    margin-top: 20px;
+}

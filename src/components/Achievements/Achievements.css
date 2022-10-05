@@ -1,0 +1,14 @@
+
+.Achievements{
+    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/1320758.jpg);
+    color: beige;
+}
+.Achievements-in{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h4{
+    font-weight: bolder;
+}

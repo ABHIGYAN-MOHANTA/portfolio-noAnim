@@ -1,0 +1,67 @@
+
+.intro{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: beige;
+}
+
+.intro-p{
+    max-width: 600px;
+}
+
+.fa {
+    font-size: 50px;
+    width: 75px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: beige;
+  }
+  .fa:hover {
+    opacity: 0.7;
+    color: aquamarine;
+  }
+  .intro-icons{
+    margin-top: 45px;
+  }
+
+  .profile-pic{
+    position: relative;
+    top: 20px;
+    border-radius: 50%;
+    border-style: ridge double;
+  }
+
+  .timeline{
+    position: absolute;
+    top: 5em;
+    left: 50em;  
+    overflow-y: hidden;      
+  }
+
+  .timeline-inn{
+    height: 895px;
+    overflow-y: scroll;
+  }
+
+  .timeline-heading{
+    text-align: center;
+    color: beige;
+  }
+  .container {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.container::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+
+@media (max-width:1028px) {
+  .timeline{
+    position: static;
+    padding-top: 50px;
+  }
+  .timeline-heading{
+    padding-bottom: 20px;
+  }
+}

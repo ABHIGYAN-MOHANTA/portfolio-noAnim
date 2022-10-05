@@ -1,0 +1,32 @@
+.Certifications{
+    background-color: #593d79;
+    background-image: url("https://i.pinimg.com/originals/60/cb/46/60cb4600ad2427938722b77faba6426a.png");
+    background-size: cover;
+    border-style: double none;
+    border-width: thick;
+    border-color: beige;
+    
+}
+.Certifications-in{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: beige;
+
+}
+#certificate{
+    text-align: center;
+}
+.Certifications-title{
+    color: beige;
+}
+.certificate-image{
+    height: 550px;
+    width: 750px;
+}
+
+@media (max-width:1028px) {
+    .certificate-image{
+        height: 247.5px;
+        width: 337.5px;
+    }
+}
