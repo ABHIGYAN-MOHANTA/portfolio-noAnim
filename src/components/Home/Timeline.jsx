@@ -51,7 +51,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         MERN Stack
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         I completed learning MERN stack for web devlopment! 
       </p>
@@ -67,7 +67,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         Python
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         Started learning Python! 
       </p>
@@ -83,7 +83,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         Python
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         Started learning Python! 
       </p>
@@ -99,7 +99,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         Python
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         Started learning Python! 
       </p>
@@ -115,7 +115,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         Python
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         Started learning Python! 
       </p>
@@ -131,7 +131,7 @@ import {
       <h3 className="vertical-timeline-element-title">
         Python
       </h3>
-      <h4 className="vertical-timeline-element-subtitle"></h4>
+      <h4 className="vertical-timeline-element-subtitle"> </h4>
       <p>
         Started learning Python! 
       </p>
