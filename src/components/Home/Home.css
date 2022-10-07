@@ -64,9 +64,7 @@
   .timeline-heading{
     padding-bottom: 20px;
   }
-}
 
-@media (max-width:1028px) {
   .profile-pic{
     height: 300px;
     width:300px;
