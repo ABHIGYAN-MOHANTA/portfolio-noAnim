@@ -27,7 +27,7 @@ function Home() {
           <a href="https://twitter.com/MohantaAbhigyan" class="fa fa-twitter"> </a>
           <a href="https://github.com/ABHIGYAN-MOHANTA" class="fa fa-github"> </a>
           <a href="https://www.youtube.com/channel/UCNh2M7dsGe_iaho_JP-khCA" class="fa fa-youtube"> </a>
-          <a href="https://www.linkedin.com/learning/" class="fa fa-linkedin"> </a>
+          <a href="https://www.linkedin.com/in/abhigyan-mohanta/" class="fa fa-linkedin"> </a>
           <a href="https://www.buymeacoffee.com/?source=fba1&utm_source=FriendlyGAd&utm_medium=BmcAdSearch&utm_campaign=April2020&gclid=EAIaIQobChMI1daJm53J-gIVVg8rCh17xAp8EAAYASAAEgK4IPD_BwE" class="fa fa-coffee"> </a>
         </div>
       </div>
