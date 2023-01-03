@@ -16,7 +16,7 @@ function Home() {
        
         <img
           className="profile-pic"
-          src="https://pbs.twimg.com/profile_images/1557323145823916032/9GDalOPv_400x400.jpg"
+          src="https://pbs.twimg.com/media/Fkza1xIaEAAj5jA?format=jpg&name=large"
           alt="Profile Pic"
           width="600"
           height="600"
