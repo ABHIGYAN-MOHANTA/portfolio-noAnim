@@ -28,11 +28,13 @@ function Certifications() {
             <h2 class="certificate-text">
               Python Bootcamp Certificate
             </h2>
+            <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-2d53523f-f6c3-4f70-a109-0bac4dc62c8a.jpg?v=1690014400000" >
             <img
               class="certificate-image"
-              src="img.jpg"
+              src="https://udemy-certificate.s3.amazonaws.com/image/UC-2d53523f-f6c3-4f70-a109-0bac4dc62c8a.jpg?v=1690014400000"
               alt="Python Bootcamp Certificate"
             />
+              </a>
 
           </div>
         </div>
